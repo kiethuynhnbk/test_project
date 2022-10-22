@@ -2,3 +2,5 @@
 API_key/
 # ignore file
 *_key.txt
+# ignore  class files
+*.class.txt
