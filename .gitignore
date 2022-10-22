@@ -1,2 +1,4 @@
+# ignore directory
 API_key/
-API_key
+# ignore file
+API_key.txt
