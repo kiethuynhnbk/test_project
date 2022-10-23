@@ -1,0 +1,3 @@
+Session.clear()
+logout button()
+cookies.clear()
